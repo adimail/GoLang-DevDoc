@@ -1,0 +1,362 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2024.1.11)  11 JAN 2024 02:18
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**./demo.tex
+(demo.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2024-01-04>
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/minted\minted.sty
+Package: minted 2023/12/18 v2.9 Yet another Pygments shim for LaTeX
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/fvextra\fvextra.sty
+Package: fvextra 2023/11/28 v1.6.1 fvextra - extensions and patches for fancyvr
+b
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count194
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2023/11/06 4.5b verbatim text (tvz,hv)
+\FV@CodeLineNo=\count195
+\FV@InFile=\read2
+\FV@TabBox=\box51
+\c@FancyVerbLine=\count196
+\FV@StepNumber=\count197
+\FV@OutFile=\write3
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/upquote\upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+))
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+Invalid UTF-8 byte or sequence at line 292 replaced by U+FFFD.
+\linenopenalty=\count198
+\output=\toks19
+\linenoprevgraf=\count199
+\linenumbersep=\dimen149
+\linenumberwidth=\dimen150
+\c@linenumber=\count266
+\c@pagewiselinenumber=\count267
+\c@LN@truepage=\count268
+\c@internallinenumber=\count269
+\c@internallinenumbers=\count270
+\quotelinenumbersep=\dimen151
+\bframerule=\dimen152
+\bframesep=\dimen153
+\bframebox=\box52
+LaTeX Info: Redefining \\ on input line 3180.
+)
+\c@FancyVerbWriteLine=\count271
+\c@FancyVerbBufferIndex=\count272
+\c@FancyVerbBufferLength=\count273
+\c@FancyVerbBufferLine=\count274
+\c@FV@oldbufferlength=\count275
+\c@FV@TrueTabGroupLevel=\count276
+\c@FV@TrueTabCounter=\count277
+\FV@TabBox@Group=\box53
+\FV@TmpLength=\skip50
+\c@FV@HighlightLinesStart=\count278
+\c@FV@HighlightLinesStop=\count279
+\FV@LoopCount=\count280
+\FV@NCharsBox=\box54
+\FV@BreakIndent=\dimen154
+\FV@BreakIndentNChars=\count281
+\FV@BreakSymbolSepLeft=\dimen155
+\FV@BreakSymbolSepLeftNChars=\count282
+\FV@BreakSymbolSepRight=\dimen156
+\FV@BreakSymbolSepRightNChars=\count283
+\FV@BreakSymbolIndentLeft=\dimen157
+\FV@BreakSymbolIndentLeftNChars=\count284
+\FV@BreakSymbolIndentRight=\dimen158
+\FV@BreakSymbolIndentRightNChars=\count285
+\c@FancyVerbLineBreakLast=\count286
+\FV@LineBox=\box55
+\FV@LineIndentBox=\box56
+\c@FV@BreakBufferDepth=\count287
+\FV@LineWidth=\dimen159
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/tools\shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 75.
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/ifplatform\ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/catchfile\catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+))
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count288
+\xs_countb=\count289
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/framed\framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip51
+\fb@frw=\dimen160
+\fb@frh=\dimen161
+\FrameRule=\dimen162
+\FrameSep=\dimen163
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count290
+\float@exts=\toks20
+\float@box=\box57
+\@float@everytoks=\toks21
+\@floatcapt=\box58
+)
+\minted@appexistsfile=\read3
+\minted@bgbox=\box59
+\minted@code=\write4
+\c@minted@FancyVerbLineTemp=\count291
+\c@minted@pygmentizecounter=\count292
+\@float@every@listing=\toks22
+\c@listing=\count293
+)
+runsystem(if not exist _minted-demo mkdir _minted-demo)...executed.
+
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+)
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+runsystem(for ^%i in (pygmentize.exe pygmentize.bat pygmentize.cmd) do set > de
+mo.aex <nul: /p x=^%~$PATH:i>> demo.aex)...executed.
+
+runsystem(del demo.aex)...executed.
+
+
+(C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+File: l3backend-xetex.def 2024-01-04 L3 backend support: XeTeX
+\g__graphics_track_int=\count294
+\l__pdf_internal_box=\box60
+\g__pdf_backend_object_int=\count295
+\g__pdf_backend_annotation_int=\count296
+\g__pdf_backend_link_int=\count297
+)
+(demo.aux)
+\openout1 = `demo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+7.
+ (C:\Users\pradi\AppData\Local\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(49.14307pt, 516.00887pt, 49.14307pt)
+* v-part:(T,H,B)=(49.14307pt, 696.68385pt, 49.14307pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=516.00887pt
+* \textheight=696.68385pt
+* \oddsidemargin=-23.12692pt
+* \evensidemargin=-23.12692pt
+* \topmargin=-60.12692pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\openout3 = `demo.pyg'.
+
+(_minted-demo/colorful.pygstyle)
+runsystem(pygmentize -l "js" -f latex -P commandprefix=PYG -F tokenmerge -P str
+ipnl="False" -o _minted-demo/93C07CF3276FC1BF8DCA83B8CD7830EC2B5E01085DEF2E68F4
+5A5E122D4F724F.pygtex demo.pyg)...executed.
+
+
+(_minted-demo/93C07CF3276FC1BF8DCA83B8CD7830EC2B5E01085DEF2E68F45A5E122D4F724F.
+pygtex
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 2.
+) [1
+
+]
+File: ./assets/fb.png Graphic file (type bmp)
+<./assets/fb.png>
+runsystem(del _minted-demo\93C07CF3276FC1BF8DCA83B8CD7830ECAB8F097AD1DC74264A72
+794341907DFC.pygtex)...executed.
+
+ [2] (demo.aux)
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2024-01-04>
+ ***********
+runsystem(del demo.pyg)...executed.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6034 strings out of 409617
+ 112122 string characters out of 5775840
+ 1927177 words of memory out of 5000000
+ 28066 multiletter control sequences out of 15000+600000
+ 558117 words of font info for 42 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 74i,11n,81p,361b,583s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on demo.pdf (2 pages).
