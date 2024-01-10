@@ -19,8 +19,8 @@ LaTeX is a typesetting system commonly used for the production of scientific and
 
 ## Little preview
 
-![Preview](assets\pg1.jpg)
-![Preview](assets\pg2.jpg)
+![Preview](assets/pg1.jpg)
+![Preview](assets/pg2.jpg)
 
 ### Under development and less active (repo)
 
@@ -32,7 +32,7 @@ LaTeX is a typesetting system commonly used for the production of scientific and
 
 Fork this if you have any solutions.
 
-![xelatex](assets\devDoc.png)
+![xelatex](assets/devDoc.png)
 
 ### Personal Learnings:
 
